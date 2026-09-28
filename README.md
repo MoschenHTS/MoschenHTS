@@ -2,6 +2,8 @@
 
 Ph.D. student in Animal Biology at the University of Brasília (UnB), based in the Toxinology Laboratory, Center for Molecular Biotechnology.
 
+Available for freelance biostatistics, data science, and bioinformatics work, for hospitals, laboratories, and research groups, in Brasília and remotely.
+
 ## Education
 
 - Ph.D. in Animal Biology, University of Brasília (UnB) — in progress
@@ -14,7 +16,9 @@ Toxinology and bioprospecting, applied to venom peptide characterization and the
 
 ## Publications
 
-- Barcellos Madeira Rosa, Y.; Tamanini Silva Moschen, H.; et al. "Climate change impacts on dengue transmission areas in Espírito Santo state, Brazil." *Oxford Open Immunology*, v.5, 2024. [PMC11398874](https://pmc.ncbi.nlm.nih.gov/articles/PMC11398874/)
+- Prado-Lopes, N.; Fagundes, D.; et al.; Moschen, H.; et al.; de Bem, A.F. "Sex- and age-dependent mitochondrial dysfunction and cognitive impairment in a mouse model of familial hypercholesterolemia." *Biology of Sex Differences*, v.17, 109, 2026. [10.1186/s13293-026-00893-x](https://doi.org/10.1186/s13293-026-00893-x)
+- Ribeiro de Jesus, N.; et al.; Tamanini Silva Moschen, H.; et al.; Vicente, C.R. "Genomic and Epidemiological Characterization of DENV-1 and DENV-2 Co-Circulation During the 2023–2024 Dengue Epidemic in Espírito Santo, Brazil." *Journal of Medical Virology*, v.98, e71078, 2026. [10.1002/jmv.71078](https://doi.org/10.1002/jmv.71078)
+- Barcellos Madeira Rosa, Y.; Tamanini Silva Moschen, H.; et al. "Climate change impacts on dengue transmission areas in Espírito Santo state, Brazil." *Oxford Open Immunology*, v.5, 2024. [10.1093/oxfimm/iqae011](https://doi.org/10.1093/oxfimm/iqae011) · [PMC11398874](https://pmc.ncbi.nlm.nih.gov/articles/PMC11398874/)
 
 ## Software and data
 
